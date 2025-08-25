@@ -1,0 +1,77 @@
+Privacy Policy
+Effective Date: Aug 25, 2025
+Last Updated: Aug 25, 2025
+Introduction
+ShadowTerm ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our terminal application ("ShadowTerm" or "the App").
+Zero Tracking Policy
+ShadowTerm does not track, collect, or store any user data. We maintain a strict zero-tracking policy across all aspects of our application.
+Information We Do NOT Collect
+
+Personal Information: We do not collect names, email addresses, phone numbers, or any other personally identifiable information
+Usage Analytics: We do not track how you use the app, which commands you run, or your usage patterns
+Device Information: We do not collect device identifiers, operating system details, or hardware information
+Location Data: We do not access or collect any location information
+Crash Reports: We do not collect crash reports or error logs
+Telemetry Data: We do not send any telemetry or diagnostic information to our servers
+Behavioral Data: We do not track user behavior, preferences, or activities within the app
+
+Data We Do NOT Store
+
+Command History: Your terminal commands and history remain solely on your device
+Connection Details: SSH/Mosh connection information is stored only locally on your device
+Session Data: Terminal sessions and their content are not recorded or transmitted to us
+Configuration Settings: Your app preferences and settings are stored only on your device
+Files and Documents: Any files you work with remain on your servers or local device
+
+Network Communications
+The only network communications ShadowTerm makes are:
+
+Direct SSH/Mosh Connections: When you initiate a connection to your servers, the app connects directly to the server you specify
+No Third-Party Services: We do not communicate with analytics services, advertising networks, or other third-party services
+No Data Transmission: No data about your usage, connections, or activities is sent to our servers or any third parties
+
+Local Data Storage
+
+App Settings: Basic app preferences are stored locally on your device using iOS secure storage
+Connection Profiles: SSH/Mosh server connection details you save are stored locally on your device and are not transmitted anywhere
+No Cloud Backup: We do not backup any of your data to cloud services
+
+Third-Party Services
+ShadowTerm does not integrate with or use any third-party services for:
+
+Analytics or tracking
+Advertising
+Cloud storage
+User authentication
+Crash reporting
+Performance monitoring
+
+Children's Privacy
+ShadowTerm does not collect any information from users of any age. Our zero-tracking policy applies to all users regardless of age.
+International Users
+Since we do not collect any data, there are no international data transfer concerns. All app functionality is local to your device and your direct server connections.
+Security
+While we don't collect data to secure, we ensure that:
+
+All connections you make through the app use industry-standard encryption (SSH/Mosh protocols)
+Your local app data is stored using iOS security features
+We follow secure coding practices in app development
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the app and the effective date will be updated. Since we don't collect contact information, we cannot notify users directly of changes.
+Your Rights
+Since we don't collect any personal data:
+
+There is no personal data to access, correct, or delete
+You have complete control over any local app data by managing it through iOS settings
+You can delete the app at any time to remove all local data
+ 
+Compliance
+This Privacy Policy is designed to comply with:
+
+Apple App Store Privacy Requirements
+General Data Protection Regulation (GDPR)
+California Consumer Privacy Act (CCPA)
+Other applicable privacy laws
+
+Since we collect no personal data, compliance is straightforward - there is no personal data to process, store, or protect beyond what's already on your device.
