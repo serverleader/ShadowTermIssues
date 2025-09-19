@@ -21,6 +21,7 @@
 
 | Resource | Description | Link |
 |----------|-------------|------|
+| 🐞 **Keyboard Guide** | Custom Keyboard Guide | [Keyboard Guide](https://github.com/serverleader/ShadowTermIssues/wiki/Custom-Keyboard-Guide-for-ShadowTerm) |
 | 🐞 **Bug Reports** | Report crashes, errors, or unexpected behavior | [Submit Issue](https://github.com/serverleader/ShadowTermIssues/issues/new) |
 | ✨ **Feature Requests** | Suggest new features or improvements | [Request Feature](https://github.com/serverleader/ShadowTermIssues/issues/new) |
 | 📖 **Documentation** | How-to guides, tutorials, and FAQs | [Browse Wiki](https://github.com/serverleader/ShadowTermIssues/wiki) |
