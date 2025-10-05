@@ -1,0 +1,88 @@
+ Major Features
+
+  SSH Library Migration (Citadel Integration)
+
+  - Phase 1 Complete: Migrated from libssh2 to Citadel SSH library
+  - Implemented new SwiftRemoteShell module with async/await support
+  - Added comprehensive SSH session management with async operations
+  - Created SwiftRemoteShell+AsyncSession for connection handling
+  - Implemented SwiftRemoteShell+Shell for interactive shell sessions
+  - Added SwiftRemoteShell+SFTP for file transfer operations
+  - Implemented SwiftRemoteShell+PortForward for port forwarding
+
+  iCloud Sync
+
+  - Complete iCloud synchronization implementation via iCloudSyncManager
+  - Sync support for: machines, identities, snippets, port forwards
+  - Settings sync: appearance themes, keyboard customization, general settings
+  - License agreement syncing across devices
+  - Instant theme synchronization
+  - Added iCloudSyncSettingsView for user control
+
+  Server Monitoring
+
+  - New ServerMonitoringContext and ServerMonitoringView
+  - ServerMonitoringTabView with comprehensive system stats
+  - Enhanced monitoring capabilities for CPU, memory, network, filesystem, GPU
+  - Improved data parsing and presentation
+
+  Port Forwarding
+
+  - Complete port forwarding implementation with Citadel
+  - Added UI play button controls
+  - Removed remote port forward (local only)
+  - Enhanced PortForwardBackend with session management
+
+  SFTP File Transfer
+
+  - Full SFTP functionality working with Citadel
+  - FileTransferContext improvements
+  - Enhanced file transfer UI and operations
+
+  UI/UX Improvements
+
+  Keyboard Enhancements
+
+  - Fixed keyboard padding to show exactly 1 row when visible
+  - Resolved keyboard overlap issue after device rotation
+  - Fixed custom keyboard fill behavior
+  - Added keyboard dismissal logic to monitor/SFTP views
+  - Comprehensive CustomKeyboardAccessoryView updates (292+ line changes)
+
+  Host/Machine Management
+
+  - Show identity name or username in host list
+  - Dynamic filter for groups/tags in host list
+  - Improved MachineElement with 836+ line additions
+  - Enhanced EditMachineView with better validation
+  - Username and host saving improvements
+
+  Identity Management
+
+  - Enhanced EditIdentityView with 75+ line improvements
+  - Added identity grouping support
+  - Better key/pair login handling
+
+  UI Polish
+
+  - Fixed port number formatting
+  - Copyright notice corrections
+  - Theme improvements and instant syncing
+  - Enhanced SwiftTerminalView (205+ line changes)
+
+  Bug Fixes
+
+  - Fixed key/pair authentication login
+  - Resolved keyboard rotation overlap issues
+  - Fixed custom keyboard fill behavior
+  - Corrected port number display formatting
+  - Fixed keyboard padding calculations
+  - Improved session cleanup and management
+
+  Technical Infrastructure
+
+  - Added comprehensive logging to SSH sessions (LogRedirect improvements)
+  - Enhanced app lifecycle management (mShadowTermApp 260+ line changes)
+  - New Package.swift for SwiftRemoteShell module
+  - Updated workspace dependencies
+  - Added entitlements for iCloud capabilities 
