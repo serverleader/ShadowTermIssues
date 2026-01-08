@@ -21,6 +21,7 @@
 
 | Resource | Description | Link |
 |----------|-------------|------|
+| 💬 **Background Location Guide (GPS)** | Why to enable the background Location | [Background Location](https://github.com/serverleader/ShadowTermIssues/wiki/Background-Location-Feature-Guide) |
 | 🐞 **Remote PortForward Guide** | Help getting Reverse Tunneling Working | [Remote Port Forwarding Guide](https://github.com/serverleader/ShadowTermIssues/wiki/Remote-Port-Forwarding-Guide) |
 | 🐞 **Keyboard Guide** | Custom Keyboard Guide | [Keyboard Guide](https://github.com/serverleader/ShadowTermIssues/wiki/Custom-Keyboard-Guide-for-ShadowTerm) |
 | 🐞 **SSH Key Guide** | Solve SSH Key Issues | [SSH Tricks/Guide](https://github.com/serverleader/ShadowTermIssues/wiki/SSH-Key-Troubleshooting-Guide-for-ShadowTerm) |
