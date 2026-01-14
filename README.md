@@ -1,4 +1,4 @@
-# 🌙 ShadowTerm.app
+# 🌙 https://ShadowTerm.app - **[AppStore](https://apps.apple.com/app/apple-store/id6746274402?pt=568435&ct=GitHub&mt=8)** 
 
 > **Terminal. Redefined. In the shadows.**
 
