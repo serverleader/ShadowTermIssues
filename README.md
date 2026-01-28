@@ -21,6 +21,7 @@
 
 | Resource | Description | Link |
 |----------|-------------|------|
+| 💬 **AI Command helper** | Guide on AI command helper |[AI Command Guide](https://github.com/serverleader/ShadowTermIssues/wiki/AI-Command-Helper-Setup-Guide) |
 | 💬 **Background Location Guide (GPS)** | Why to enable the background Location | [Background Location](https://github.com/serverleader/ShadowTermIssues/wiki/Background-Location-Feature-Guide) |
 | 🐞 **Remote PortForward Guide** | Help getting Reverse Tunneling Working | [Remote Port Forwarding Guide](https://github.com/serverleader/ShadowTermIssues/wiki/Remote-Port-Forwarding-Guide) |
 | 🐞 **Keyboard Guide** | Custom Keyboard Guide | [Keyboard Guide](https://github.com/serverleader/ShadowTermIssues/wiki/Custom-Keyboard-Guide-for-ShadowTerm) |
